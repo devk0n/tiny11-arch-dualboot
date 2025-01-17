@@ -14,3 +14,16 @@ A comprehensive guide to dual-booting Tiny11 and Arch Linux (Hyprland + Wayland)
 4. Enter drive letter for mounted ISO, eg `D`.
 5. Select ImageIndex, recommended: `7`, for Windows 11 Pro N.
 6. Wait for script to finish.
+
+### In Rufus
+#### Drive Properties
+1. Choose your boot device, (8 Gb minimum).
+2. Select `tiny11.iso` boot image.
+3. Select `GPT` partition scheme.
+
+#### Format Options
+
+4. name the volume `TINY11_BOOT`.
+5. Select NTFS file system.
+6. Select `4096 bytes (Default)` cluster size.
+7. START.
