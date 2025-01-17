@@ -9,6 +9,6 @@ A comprehensive guide to dual-booting Tiny11 and Arch Linux (Hyprland + Wayland)
 ### In PowerShell 
 1. Set execution policy in PowerShell as unrestricted: `Set-ExecutionPolicy unrestricted`.
 2. Press `A` (Yes to All).
-3. Launch tiny11maker.ps1: ´& C:\path\to\tiny11maker.ps1´.
-4. Enter drive letter for mounted ISO, eg ´D´.
-5. Select ImageIndex, recommended: ´7´.
+3. Launch tiny11maker.ps1: `& C:\path\to\tiny11maker.ps1`.
+4. Enter drive letter for mounted ISO, eg `D`.
+5. Select ImageIndex, recommended: `7`.
