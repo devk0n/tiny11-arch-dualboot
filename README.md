@@ -4,3 +4,4 @@ A comprehensive guide to dual-booting Tiny11 and Arch Linux (Hyprland + Wayland)
 1. Download windows 11 iso, and tiny11 builder from 'https://github.com/ntdevlabs/tiny11builder/releases'
 2. Launch WindowsPowerShell as administrator
 3. Set execution policy in PowerShell: `Set-ExecutionPolicy unrestricted`
+4. Press `A` (Yes to All)
