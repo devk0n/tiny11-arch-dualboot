@@ -12,7 +12,7 @@ A comprehensive guide to dual-booting Tiny11 and Arch Linux (Hyprland + Wayland)
 2. Press `A` (Yes to All).
 3. Launch tiny11maker.ps1: `& C:\path\to\tiny11maker.ps1`.
 4. Enter drive letter for mounted ISO, eg `D`.
-5. Select ImageIndex, recommended: `6`, for Windows 11 Pro (N versions have provent to not be suitable, for me).
+5. Select ImageIndex, recommended: `6`, for Windows 11 Pro (N versions have proven to not be suitable, for me).
 6. Wait for script to finish.
 
 ### In Rufus
