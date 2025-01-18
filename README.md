@@ -17,7 +17,7 @@ A comprehensive guide to dual-booting Tiny11 and Arch Linux (Hyprland + Wayland)
 
 ### In Rufus
 #### Drive Properties
-1. Choose your boot device, (8 Gb minimum).
+1. Choose your boot device, (8 GB minimum).
 2. Select `tiny11.iso` boot image.
 3. Select `GPT` partition scheme.
 
